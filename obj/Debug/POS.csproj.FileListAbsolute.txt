@@ -1,0 +1,13 @@
+E:\A@NHCE\1MCA Study\5th Sem\POS\bin\Debug\POS.exe.config
+E:\A@NHCE\1MCA Study\5th Sem\POS\bin\Debug\POS.exe
+E:\A@NHCE\1MCA Study\5th Sem\POS\bin\Debug\POS.pdb
+E:\A@NHCE\1MCA Study\5th Sem\POS\obj\Debug\POS.Form1.resources
+E:\A@NHCE\1MCA Study\5th Sem\POS\obj\Debug\POS.frmSetup.resources
+E:\A@NHCE\1MCA Study\5th Sem\POS\obj\Debug\POS.Properties.Resources.resources
+E:\A@NHCE\1MCA Study\5th Sem\POS\obj\Debug\POS.csproj.GenerateResource.cache
+E:\A@NHCE\1MCA Study\5th Sem\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+E:\A@NHCE\1MCA Study\5th Sem\POS\obj\Debug\POS.exe
+E:\A@NHCE\1MCA Study\5th Sem\POS\obj\Debug\POS.pdb
+E:\A@NHCE\1MCA Study\5th Sem\POS\obj\Debug\POS.csprojAssemblyReference.cache
+E:\A@NHCE\1MCA Study\5th Sem\POS\obj\Debug\POS.frmLogin.resources
+E:\A@NHCE\1MCA Study\5th Sem\POS\obj\Debug\POS.frmProgressBar.resources
